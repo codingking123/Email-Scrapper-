@@ -1,0 +1,13 @@
+# Before execute this script you need to Download Following modules:
+
+@ python3  >> simply download from google or any search engine
+@  install Module bs4  >> simply type pip install bs4 in command prompt or pip3 install bs4
+@  install Module requests  >> simply type pip install requests in command prompt or pip3 install requests
+@  install Module collections  >> simply type pip install collections in command prompt or pip3 install collections
+@  install Module collections  >> simply type pip install re in command prompt or pip3 install re
+
+
+pip install bs4
+pip install re
+pip install collections
+pip install requests
